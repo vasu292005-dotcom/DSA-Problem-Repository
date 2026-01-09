@@ -14,7 +14,7 @@ Master the fundamentals of arrays and string manipulation - the foundation of DS
 
 |---|---------|-----------|--------|
 
-| 1 | Two Sum | Easy | ⏳ Coming Soon |
+| 1 | Two Sum(./two-sum.py) | Easy | ✅ Completed |
 
 | 2 | Best Time to Buy/Sell Stock | Easy | ⏳ Coming Soon |
 
