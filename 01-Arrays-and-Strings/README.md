@@ -16,11 +16,11 @@ Master the fundamentals of arrays and string manipulation - the foundation of DS
 
 | 1 | Two Sum(./two-sum.py) | Easy | ✅ Completed |
 
-| 2 | Best Time to Buy/Sell Stock | Easy | ⏳ Coming Soon |
+| 2 | Best Time to Buy/Sell Stock(./stock-buy-sell.py) | Easy | ✅ Completed |
 
-| 3 | Contains Duplicate | Easy | ⏳ Coming Soon |
+| 3 | Contains Duplicate(./contains-duplicate.py) | Easy | ✅ Completed |
 
-| 4 | Valid Anagram | Easy | ⏳ Coming Soon |
+| 4 | Valid Anagram(./valid-anagram.py) | Easy | ✅ Completed |
 
 | 5 | Maximum Subarray | Medium | ⏳ Coming Soon |
 
