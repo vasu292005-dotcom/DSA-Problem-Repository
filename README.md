@@ -12,9 +12,9 @@ A comprehensive collection of DSA problems with detailed explanations, optimized
 
 \- \[Arrays and Strings](./01-Arrays-and-Strings) - 4 problems
 
-\- \[Linked Lists](./02-Linked-Lists) - 0 problems
+\- \[Linked Lists](./02-Linked-Lists) - 2 problems
 
-\- \[Stacks and Queues](./03-Stacks-and-Queues) - 0 problems
+\- \[Stacks and Queues](./03-Stacks-and-Queues) - 1 problems
 
 \- \[Trees and Binary Search Trees](./04-Trees-and-BST) - 0 problems
 
@@ -78,9 +78,9 @@ A comprehensive collection of DSA problems with detailed explanations, optimized
 
 | Arrays \& Strings | 4/25 | 🔄 In Progress |
 
-| Linked Lists | 0/15 | ⏳ Upcoming |
+| Linked Lists | 2/15 | 🔄 In Progress |
 
-| Stacks \& Queues | 0/12 | ⏳ Upcoming |
+| Stacks \& Queues | 1/12 | 🔄 In Progress |
 
 | Trees \& BST | 0/20 | ⏳ Upcoming |
 
@@ -92,7 +92,7 @@ A comprehensive collection of DSA problems with detailed explanations, optimized
 
 
 
-\*\*Total Progress: 4/135 problems\*\* 🎯
+\*\*Total Progress: 7/135 problems\*\* 🎯
 
 
 
