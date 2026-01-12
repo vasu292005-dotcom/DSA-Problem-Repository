@@ -82,17 +82,17 @@ A comprehensive collection of DSA problems with detailed explanations, optimized
 
 | Stacks \& Queues | 1/12 | 🔄 In Progress |
 
-| Trees \& BST | 0/20 | ⏳ Upcoming |
+| Trees \& BST | 1/20 | 🔄 In Progress |
 
 | Graphs | 0/18 | ⏳ Upcoming |
 
-| Recursion \& DP | 0/30 | ⏳ Upcoming |
+| Recursion \& DP | 1/30 | 🔄 In Progress |
 
 | Searching \& Sorting | 0/15 | ⏳ Upcoming |
 
 
 
-\*\*Total Progress: 7/135 problems\*\* 🎯
+\*\*Total Progress: 9/135 problems\*\* 🎯
 
 
 
