@@ -16,11 +16,11 @@ A comprehensive collection of DSA problems with detailed explanations, optimized
 
 \- \[Stacks and Queues](./03-Stacks-and-Queues) - 1 problems
 
-\- \[Trees and Binary Search Trees](./04-Trees-and-BST) - 0 problems
+\- \[Trees and Binary Search Trees](./04-Trees-and-BST) - 1 problems
 
 \- \[Graphs](./05-Graphs) - 0 problems
 
-\- \[Recursion and Dynamic Programming](./06-Recursion-and-DP) - 0 problems
+\- \[Recursion and Dynamic Programming](./06-Recursion-and-DP) - 1 problems
 
 \- \[Searching and Sorting](./07-Searching-and-Sorting) - 0 problems
 
