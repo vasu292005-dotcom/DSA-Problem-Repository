@@ -22,7 +22,7 @@ A comprehensive collection of DSA problems with detailed explanations, optimized
 
 \- \[Recursion and Dynamic Programming](./06-Recursion-and-DP) - 1 problems
 
-\- \[Searching and Sorting](./07-Searching-and-Sorting) - 0 problems
+\- \[Searching and Sorting](./07-Searching-and-Sorting) - 1 problems
 
 
 
@@ -88,7 +88,7 @@ A comprehensive collection of DSA problems with detailed explanations, optimized
 
 | Recursion \& DP | 1/30 | 🔄 In Progress |
 
-| Searching \& Sorting | 0/15 | ⏳ Upcoming |
+| Searching \& Sorting | 0/15 | 🔄 In Progress |
 
 
 
