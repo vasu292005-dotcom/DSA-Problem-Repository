@@ -88,11 +88,11 @@ A comprehensive collection of DSA problems with detailed explanations, optimized
 
 | Recursion \& DP | 1/30 | 🔄 In Progress |
 
-| Searching \& Sorting | 0/15 | 🔄 In Progress |
+| Searching \& Sorting | 1/15 | 🔄 In Progress |
 
 
 
-\*\*Total Progress: 9/135 problems\*\* 🎯
+\*\*Total Progress: 10/135 problems\*\* 🎯
 
 
 
