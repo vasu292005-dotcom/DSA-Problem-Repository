@@ -76,15 +76,15 @@ A comprehensive collection of DSA problems with detailed explanations, optimized
 
 |-------|----------------|--------|
 
-| Arrays \& Strings | 4/25 | 🔄 In Progress |
+| Arrays \& Strings | 5/25 | 🔄 In Progress |
 
 | Linked Lists | 2/15 | 🔄 In Progress |
 
 | Stacks \& Queues | 1/12 | 🔄 In Progress |
 
-| Trees \& BST | 1/20 | 🔄 In Progress |
+| Trees \& BST | 2/20 | 🔄 In Progress |
 
-| Graphs | 0/18 | ⏳ Upcoming |
+| Graphs | 1/18 | 🔄 In Progress |
 
 | Recursion \& DP | 1/30 | 🔄 In Progress |
 
@@ -92,7 +92,7 @@ A comprehensive collection of DSA problems with detailed explanations, optimized
 
 
 
-\*\*Total Progress: 10/135 problems\*\* 🎯
+\*\*Total Progress: 13/135 problems\*\* 🎯
 
 
 

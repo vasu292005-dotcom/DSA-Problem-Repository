@@ -7,7 +7,7 @@ Master tree data structures - fundamental for many advanced algorithms.
 | # | Problem | Difficulty | Time | Space | Key Technique | Status |
 |---|---------|-----------|------|-------|---------------|--------|
 | 1 | [Maximum Depth of Binary Tree](./max-depth-tree.py) | Easy | O(n) | O(h) | DFS/Recursion | ✅ |
-| 2 | [Invert Binary Tree](./invert-tree.py) | Easy | O(n) | O(h) | Recursion | ⏳ |
+| 2 | [Invert Binary Tree](./invert-tree.py) | Easy | O(n) | O(h) | Recursion | ✅ |
 | 3 | [Validate BST](./validate-bst.py) | Medium | O(n) | O(h) | Inorder Traversal | ⏳ |
 | 4 | [Lowest Common Ancestor](./lca-bst.py) | Medium | O(h) | O(1) | BST Properties | ⏳ |
 

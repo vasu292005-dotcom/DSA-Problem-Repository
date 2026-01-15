@@ -22,7 +22,7 @@ Master the fundamentals of arrays and string manipulation - the foundation of DS
 
 | 4 | Valid Anagram(./valid-anagram.py) | Easy | ✅ Completed |
 
-| 5 | Maximum Subarray | Medium | ⏳ Coming Soon |
+| 5 | Maximum Subarray | Medium | ✅ Completed |
 
 
 

@@ -6,7 +6,7 @@ Master graph algorithms - essential for complex problem-solving.
 
 | # | Problem | Difficulty | Time | Space | Key Technique | Status |
 |---|---------|-----------|------|-------|---------------|--------|
-| 1 | [Number of Islands](./number-of-islands.py) | Medium | O(m×n) | O(m×n) | DFS/BFS | ⏳ |
+| 1 | [Number of Islands](./number-of-islands.py) | Medium | O(m×n) | O(m×n) | DFS/BFS | ✅ |
 | 2 | [Clone Graph](./clone-graph.py) | Medium | O(n) | O(n) | DFS/BFS | ⏳ |
 | 3 | [Course Schedule](./course-schedule.py) | Medium | O(V+E) | O(V+E) | Topological Sort | ⏳ |
 | 4 | [Pacific Atlantic Water Flow](./water-flow.py) | Medium | O(m×n) | O(m×n) | DFS | ⏳ |
