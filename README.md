@@ -10,7 +10,7 @@ A comprehensive collection of DSA problems with detailed explanations, optimized
 
 
 
-\- \[Arrays and Strings](./01-Arrays-and-Strings) - 4 problems
+\- \[Arrays and Strings](./01-Arrays-and-Strings) - 5 problems
 
 \- \[Linked Lists](./02-Linked-Lists) - 2 problems
 
@@ -76,7 +76,7 @@ A comprehensive collection of DSA problems with detailed explanations, optimized
 
 |-------|----------------|--------|
 
-| Arrays \& Strings | 5/25 | 🔄 In Progress |
+| Arrays \& Strings | 6/25 | 🔄 In Progress |
 
 | Linked Lists | 2/15 | 🔄 In Progress |
 
@@ -92,7 +92,7 @@ A comprehensive collection of DSA problems with detailed explanations, optimized
 
 
 
-\*\*Total Progress: 13/135 problems\*\* 🎯
+\*\*Total Progress: 14/135 problems\*\* 🎯
 
 
 
